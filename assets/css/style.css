@@ -65,6 +65,8 @@ p {
     background-position: center;
 }
 
+/* marketing content section */
+
 .float-left {
     float: left;
     margin-right: 25px;
@@ -74,8 +76,6 @@ p {
     float: right;
     margin-left: 25px;
 }
-
-/* marketing content section */
 
 .marketing-content {
     width: 75%;
@@ -91,7 +91,6 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-
 
 .marketing-content img {
     max-height: 200px;
@@ -163,7 +162,6 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-
 
 
 /* footer */
