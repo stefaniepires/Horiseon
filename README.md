@@ -1,11 +1,10 @@
-
 Readme.txt file for Horiseon Code Refactor created on 10/13 by Stefanie Tinsley
 
 Purpose of the updates made were to make sure that the site follows accessibility standards that would help the site be 
 optimized for search engines. Adjustments to the code did not impact the functionality or overall look of the website. 
 
 
-You can find my respository from the link below.
+You can find my repository from the link below.
 https://github.com/steftinsley/Horiseon
 
 You can preview my site live from the link below.
