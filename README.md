@@ -11,14 +11,12 @@ https://github.com/steftinsley/Horiseon
 You can preview my site live from the link below.
 https://steftinsley.github.io/Horiseon/
 
-<p align="center">
 Screenshot of my project:
-<br>
-![alt text](https://github.com/steftinsley/Horiseon/blob/main/Horiseon%20screenshot.JPG?raw=true)
-</p>
 
-<p align="center">
+![alt text](https://github.com/steftinsley/Horiseon/blob/main/Horiseon%20screenshot.JPG?raw=true)
+
+
+
 Mockup of the site is below:
-<br> 
+
 ![alt text](https://github.com/steftinsley/Horiseon/blob/main/01-html-css-git-homework-demo.png?raw=true)
-</p>
