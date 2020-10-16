@@ -7,11 +7,7 @@
 body {
     background-color: #d9dcd6;
 }
-/* HEADER/NAVIGATION
-Changes Made:
-1. Removed the . in front of header as changes 
-2. Replaced div with nav
-*/
+/* HEADER/NAVIGATION */
 
 header {
     padding: 20px;
@@ -55,12 +51,10 @@ p {
     font-size: 16px;
 }
 
-/* HERO SECTION
-Adjusted the height to 1300 to show more of the top of the image
-  */
+/* HERO SECTION */
 
 .hero {
-    height: 1300px;
+    height: 800px;
     width: 100%;
     margin-bottom: 25px;
     background-image: url("../images/digital-marketing-meeting.jpg");
@@ -68,14 +62,7 @@ Adjusted the height to 1300 to show more of the top of the image
     background-position: center;
 }
 
-/* CONTENT- LEFT SIDE
-1. Updated Content to .left-content-boxes--> actually changed back to .content
-2. Renamed social-media-marketing to .left-content-boxes and consolidated the 
-.online-reputation-management, .social-media-marketing, and .search-engine-optomization since
-the code was exactly the same 
-3.Repeated step 2 but for the img's
-4. Repeated step 2 but for the H2's
- */
+/* CONTENT- LEFT SIDE */
 
 .float-left {
     float: left;
@@ -114,12 +101,7 @@ the code was exactly the same
 
 
 
-/* CONTENT- RIGHT SIDE
-1. Renamed Replaced benefit-lead, benefit-brand, and benefit-cost with 
-right-content-box
-2. Repeated step 2 but for the img's
-3. Repeated step 2 but for the H3's
- */
+/* CONTENT- RIGHT SIDE */
 
 .benefits {
     margin-right: 20px;
@@ -153,9 +135,7 @@ right-content-box
 
 
 
-/* FOOTER
-1. Removed the . before footer 
-*/
+/* FOOTER */
 
 footer {
     padding: 30px;
